@@ -6,7 +6,7 @@ const Home = () => {
       <h2>Features</h2>
       <ul>
         <li>A reusable ItemList component that displays portfolio names and stock symbol lists</li>
-        <li>A context that holds a directory of stock portfolios</li>
+        <li>A context that holds a dictionary of stock portfolios</li>
         <li>User authentication through Firebase and CRUD operations against a Firestore database</li>
         <li>Visitors can view a sample portfolio with live data</li>
         <li>Logged in users can create and view their own portfolios that are stored on Firebase</li>
