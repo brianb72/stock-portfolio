@@ -13,7 +13,7 @@ https://jovial-cuchufli-ae6b4f.netlify.app/
 ## Features
 
 - A reusable ItemList component that displays portfolio names and stock symbol lists
-- A context that holds a directory of stock portfolios
+- A context that holds a dictionary of stock portfolios
 - User authentication through Firebase and CRUD operations against a Firestore database
 - Visitors can view a sample portfolio with live data
 - Logged in users can create and view their own portfolios that are stored on Firebase
